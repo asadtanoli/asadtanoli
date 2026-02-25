@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Asad+Tanoli)](https://git.io/typing-svg)
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWgwbXgzMmxjbmxwNmlhZnRmNDZmbmN5NTJ5aXhveHJlNDZ3bnV1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="600" height="300"  /></p>
 
 
 
